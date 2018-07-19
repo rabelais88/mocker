@@ -1,0 +1,13 @@
+{
+  "name": "mocker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "mock": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "rand-token": "^0.4.0"
+  }
+}
