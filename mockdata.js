@@ -76,12 +76,22 @@ module.exports = {
       name: {
         ko: '오버워치',
         en: 'Overwatch'
+      },
+      age:{
+        'KOR':15,
+        'JPN':18,
+        'USA':15
       }
     },
     {
       name: {
         ko: '피파온라인',
         en: 'FIFA online'
+      },
+      age:{
+        'KOR':0,
+        'JPN':0,
+        'USA':12
       }
     }
   ],

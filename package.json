@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "express": "^4.16.3",
+    "express-list-endpoints": "^3.0.1",
+    "moment": "^2.22.2",
     "rand-token": "^0.4.0"
   }
 }
