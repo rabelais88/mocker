@@ -14,7 +14,7 @@ const suid = randtoken.suid
 const settings = require('./settings.json')
 let mockdata = require('./mockdata.js')
 
-mockdata.gamelist = mockdata.gamelist.map(el=>{return {...el, id:suid(16)}})
+// mockdata.gamelist = mockdata.gamelist.map(el=>{return {...el, id:suid(16)}})
 mockdata.countrieslist = mockdata.countrieslist.map(el=>{return {...el, id:suid(16)}})
 
 function hr(...argv){

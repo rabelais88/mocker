@@ -1,6 +1,7 @@
 module.exports = {
   gamelist:[
     {
+      id: 'SC',
       name: {
         ko:'스타크래프트',
         en:'starcraft'
@@ -12,6 +13,7 @@ module.exports = {
       }
     },
     {
+      id: 'DOTA2',
       name: {
         ko: '도타2',
         en: 'DOTA2'
@@ -23,6 +25,7 @@ module.exports = {
       }
     },
     {
+      id: 'TF2',
       name: {
         ko: '팀포트리스2',
         en: 'Team Fortress 2'
@@ -34,6 +37,7 @@ module.exports = {
       }
     },
     {
+      id: 'SC2',
       name: {
         ko: '스타크래프트2',
         en: 'starcraft2'
@@ -45,6 +49,7 @@ module.exports = {
       }
     },
     {
+      id: 'PUBG',
       name: {
         ko: '배틀그라운드',
         en: "Player Unknown's Battleground"
@@ -56,6 +61,7 @@ module.exports = {
       }
     },
     {
+      id: 'HS',
       name: {
         ko: '하스스톤',
         en: 'Hearthstone'
@@ -67,12 +73,14 @@ module.exports = {
       }
     },
     {
+      id:'CSGO',
       name: {
         ko: "카운터 스트라이크 글로벌 오펜시브",
         en: "Counter Strike: Global Offensive"
       }
     },
     {
+      id: 'OW',
       name: {
         ko: '오버워치',
         en: 'Overwatch'
@@ -84,6 +92,7 @@ module.exports = {
       }
     },
     {
+      id:'FIFA',
       name: {
         ko: '피파온라인',
         en: 'FIFA online'
