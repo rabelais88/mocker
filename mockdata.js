@@ -77,6 +77,11 @@ module.exports = {
       name: {
         ko: "카운터 스트라이크 글로벌 오펜시브",
         en: "Counter Strike: Global Offensive"
+      },
+      age:{
+        'KOR':19,
+        'JPN':19,
+        'USA':19
       }
     },
     {
